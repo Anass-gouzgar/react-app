@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Edited Now
+          Edited 1
         </a>
       </header>
     </div>
